@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main()//code to reverse a number
 {
     int n,digit,rev=0;
     cout<<"Enter a number";
