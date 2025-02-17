@@ -19,7 +19,7 @@ int hcf(int a,int b)
 int main()
 {
     int a,b;
-    cout<<"Enter the numbers for which hcf needs to be found: ";
+    cout<<"Enter the numbers for which HCF needs to be found: ";
     cin>>a;
     cin>>b;
     cout<<"HCF is:"<<hcf(a,b);
